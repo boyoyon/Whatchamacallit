@@ -24,7 +24,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Toponym.html">シャンパーニュ地方からシャンパンという単語ができるようなこと</a>
 <h2>た</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/vection.html">隣の電車が動き出すと, こちらの電車が動いたように感じるあれ</a><br>
-・<a href="https://boyoyon.github.io/Chronostasis.html">時計をふと見たとき秒針がなかなか動きださないあれ</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Chronostasis.html">時計をふと見たとき秒針がなかなか動きださないあれ</a>
 <h2>な</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/numeronym.html">長い単語を文字数を使って省略するやつ</a>
 <h2>は</h2>
@@ -64,3 +64,4 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>Z</h2>
 </body>
 </html>
+
