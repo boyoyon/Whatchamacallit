@@ -21,7 +21,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Stiglers_law_of_eponymy.html">最初に発見した人の名が冠されないこと</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/AvrtedVision.html">視線を合わせると見えなくなり, 視線をちょっと外すと見えるようになるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Counterfactual.html">「(実際は違うけど)もし～だったら」という言い方</a><br>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/Toponym.html">シャンパーニュ地方からシャンパンという単語ができるようなこと</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Toponym.html">シャンパーニュ地方からシャンパンという単語ができるようなこと</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/epigraph.html">章の冒頭にいきなり現れる引用文</a><br>
 <h2>た</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/vection.html">隣の電車が動き出すと, こちらの電車が動いたように感じるあれ</a><br>
@@ -65,5 +65,6 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>Z</h2>
 </body>
 </html>
+
 
 
