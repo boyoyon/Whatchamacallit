@@ -15,7 +15,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 </p>
 <h2>0～9</h2>
 <h2>あ</h2>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/BakerBakerParadox.html">相手の顔や職業などは思い出すことができるのに名前が思い出せないあれ</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/BakerBakerParadox.html">相手の顔や職業などは思い出すことができるのに名前が思い出せないあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/HypnicJerk.html">ウトウトしている時に突然体の一部がビクッとなるあれ</a>
 <h2>か</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Pareidolia.html">逆三角形に配置されたものが顔に見えてしまうあれ</a>
@@ -32,14 +32,14 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>な</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/numeronym.html">長い単語を文字数を使って省略するやつ</a>
 <h2>は</h2>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/PhantomVibrationSyndrome.html">ポケットやカバンの中のスマホが鳴ってもいないのに、震えたように感じるあれ</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/PhantomVibrationSyndrome.html">ポケットやカバンの中のスマホが鳴ってもいないのに、震えたように感じるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/AokiMariko.html">本屋に行くとトイレに行きたくなるあれ</a>
 <h2>ま</h2>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/GestaltCollapse.html">見慣れた漢字をじぃ～っと見ていると感じる違和感</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/GestaltCollapse.html">見慣れた漢字をじぃ～っと見ていると感じる違和感</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Pareidolia.html">木目やしみが何かに見えてしまうあれ</a>
 <h2>や</h2>
 <h2>ら</h2>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/DoorwayEffect.html">リビングからキッチンに来たけれど、何を取りに来たんだっけ？というあれ</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/DoorwayEffect.html">リビングからキッチンに来たけれど、何を取りに来たんだっけ？というあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/SpecificationGaming.html">ルールや仕様の抜け穴や裏技を見つけて目標を達成してしまう現象</a>
 <h2>わ</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Akrasia.html">わかっちゃいるけどやめられない、こと</a>
@@ -73,6 +73,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>Z</h2>
 </body>
 </html>
+
 
 
 
