@@ -26,7 +26,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Toponym.html">シャンパーニュ地方からシャンパンという単語ができるようなこと</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/epigraph.html">章の冒頭にいきなり現れる引用文</a><br>
 <h2>た</h2>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/SelfHandicapping.html">テスト前で勉強しなければいけないのに漫画を読んだり部屋を掃除したくなったりと、他のことがやりたくなるあれ</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/SelfHandicapping.html">テスト前で勉強しなければいけないのに漫画を読んだり部屋を掃除したくなったりと、他のことがやりたくなるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/vection.html">隣の電車が動き出すと, こちらの電車が動いたように感じるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Chronostasis.html">時計をふと見たとき秒針がなかなか動きださないあれ</a>
 <h2>な</h2>
@@ -73,6 +73,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>Z</h2>
 </body>
 </html>
+
 
 
 
