@@ -16,9 +16,13 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>0～9</h2>
 <h2>あ</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/BakerBakerParadox.html">相手の顔や職業などは思い出すことができるのに名前が思い出せないあれ</a><br>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Petrichor.html">雨の降り始めの土やアスファルトのあの匂い</a><br>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Earworm.html">歌のフレーズが頭の中で何度もループして離れなくなるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/HypnicJerk.html">ウトウトしている時に突然体の一部がビクッとなるあれ</a>
 <h2>か</h2>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/Pareidolia.html">逆三角形に配置されたものが顔に見えてしまうあれ</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Hajiki.html">傘を閉じたり開いたりするときに押すボッチ</a><br>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Pareidolia.html">逆三角形に配置されたものが顔に見えてしまうあれ</a><br>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Aglets.html">靴紐の両端についている、紐がほつれないように固められたプラスチックや金属のあれ</a>
 <h2>さ</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Stiglers_law_of_eponymy.html">最初に発見した人の名が冠されないこと</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/AvrtedVision.html">視線を合わせると見えなくなり, 視線をちょっと外すと見えるようになるあれ</a><br>
@@ -73,6 +77,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>Z</h2>
 </body>
 </html>
+
 
 
 
