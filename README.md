@@ -29,6 +29,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Counterfactual.html">「(実際は違うけど)もし～だったら」という言い方</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Toponym.html">シャンパーニュ地方からシャンパンという単語ができるようなこと</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/epigraph.html">章の冒頭にいきなり現れる引用文</a><br>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/Mangata.html">水面に映った月光が道のように真っ直ぐ伸びて見える様子</a>
 <h2>た</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/SelfHandicapping.html">テスト前で勉強しなければいけないのに漫画を読んだり部屋を掃除したくなったりと、他のことがやりたくなるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/vection.html">隣の電車が動き出すと, こちらの電車が動いたように感じるあれ</a><br>
@@ -42,6 +43,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/GestaltCollapse.html">見慣れた漢字をじぃ～っと見ていると感じる違和感</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Pareidolia.html">木目やしみが何かに見えてしまうあれ</a>
 <h2>や</h2>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/ComplementaryAfterimage.html">雪を長時間見た後に周りがピンク色に見えるあれ</a>
 <h2>ら</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/DoorwayEffect.html">リビングからキッチンに来たけれど、何を取りに来たんだっけ？というあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/SpecificationGaming.html">ルールや仕様の抜け穴や裏技を見つけて目標を達成してしまう現象</a>
@@ -77,6 +79,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>Z</h2>
 </body>
 </html>
+
 
 
 
