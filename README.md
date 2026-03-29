@@ -19,7 +19,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Petrichor.html">雨の降り始めの土やアスファルトのあの匂い</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Earworm.html">歌のフレーズが頭の中で何度もループして離れなくなるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/HypnicJerk.html">ウトウトしている時に突然体の一部がビクッとなるあれ</a><br>
-・<a href="https://boyoyon.github.io/Whatchamacallit/data/sayagata.html">お白洲の襖(ふすま)で見かけるあの文様</a>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/sayagata.html">お白洲の襖(ふすま)で見かけるあの文様</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/giboshi.html">お寺や神社、橋の欄干などで見られる玉ねぎ型のあれ</a>
 <h2>か</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Hajiki.html">傘を閉じたり開いたりするときに押すボッチ</a><br>
