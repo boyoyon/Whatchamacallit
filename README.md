@@ -36,6 +36,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 <h2>た</h2>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/BarnumEffect.html">誰にでも当てはまるような曖昧な記述を、自分だけに当てはまるものと信じてしまう心理</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/SelfHandicapping.html">テスト前で勉強しなければいけないのに漫画を読んだり部屋を掃除したくなったりと、他のことがやりたくなるあれ</a><br>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/RBT.html">電話をかけた時に相手につながるまでの間、「トゥルルル…」と鳴る音</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/ProustPhenomenon.html">特定の香りを嗅いだ瞬間、忘れていた記憶が鮮明に蘇るあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Chronostasis.html">時計をふと見たとき秒針がなかなか動きださないあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/BarbersPole.html">床屋さんの目印のあれ (回転する看板)</a><br>
@@ -45,6 +46,7 @@ Whatchamacallit"（ワッチャマカリット）は、名前を思い出せな�
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/LeidenfrostEffect.html">熱したフライパンに水を落としたとき、水滴が玉のようになってコロコロ転がる現象</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/Dunning-KrugerEffect.html">能力の低い人が、自分の能力を過大評価してしまう現象</a>
 <h2>は</h2>
+・<a href="https://boyoyon.github.io/Whatchamacallit/data/kikko.html">針金を六角形の形に編んだ金網</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/PhantomVibrationSyndrome.html">ポケットやカバンの中のスマホが鳴ってもいないのに、震えたように感じるあれ</a><br>
 ・<a href="https://boyoyon.github.io/Whatchamacallit/data/AokiMariko.html">本屋に行くとトイレに行きたくなるあれ</a>
 <h2>ま</h2>
