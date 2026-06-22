@@ -7,7 +7,7 @@
 <h2>なにものか？</h2>
 <p>
 AI検索などでだいぶ便利になったが、「説明文」 → 「キーワード」方向の検索は困難で「なぞなぞ」のようなものだった。<br>
-そんなものを集めてみる。
+<a href="https://boyoyon.github.io/Whatchamacallit/index.html">そんなものを集めてみる</a>。
 </p>
 <p>
 Google AIによれば･･･<br>
